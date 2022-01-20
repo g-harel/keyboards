@@ -1,0 +1,1 @@
+npx prettier --list-different --write --tab-width 4 "**/*.{md,json}"
